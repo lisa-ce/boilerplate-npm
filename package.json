@@ -3,6 +3,7 @@
 	"author": "Lisa",
 	"dependencies": {
 		"express": "^4.14.0"
+		"@freecodecamp/example":"~1.2.13"
 	},
 	"keywords": ["confused", "maihwee"],
 	"license":"MIT",

@@ -5,6 +5,8 @@
 		"express": "^4.14.0"
 	},
 	"keywords": ["confused", "maihwee"],
+	"license":"MIT",
+	"version": "1.0.0",
 	"description": "what the hell am i doing",
 	"main": "server.js",
 	"scripts": {
